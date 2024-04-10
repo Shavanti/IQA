@@ -4,5 +4,5 @@
   __https://github.com/wangzhihua520/OF_BIQA__
 
 * SS-IQA(AAAI'24): Semi-Supervised Blind Image Quality Assessment through Knowledge Distillation and Incremental Learning
-  __无__
+  __暂无代码__
 
