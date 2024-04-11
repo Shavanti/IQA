@@ -10,6 +10,6 @@
 * (WACV'23): No Reference Opinion Unaware Quality Assessment of Authentically Distorted Images
     __https://github.com/nithincbabu7/iqa-ContentSep__
 
-  * Re-IQA(CVPR'23): Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild
+* Re-IQA(CVPR'23): Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild
     __https://github.com/avinabsaha/ReIQA__
 
