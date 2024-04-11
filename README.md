@@ -12,5 +12,5 @@
 
 * Re-IQA(CVPR'23): Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild
 
-    __https://github.com/avinabsaha/ReIQA__
+  __https://github.com/avinabsaha/ReIQA__
 
