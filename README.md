@@ -14,11 +14,11 @@
 
   __https://github.com/avinabsaha/ReIQA__
 
-  * IL-NIQE(TIP'15): A Feature-Enriched Completely Blind Image Quality Evaluator
+* IL-NIQE(TIP'15): A Feature-Enriched Completely Blind Image Quality Evaluator
 
   __www.comp.polyu.edu.hk/∼cslzhang/IQA/ILNIQE/ILNIQE.htm__
 
-  * NIQE(SPL'13): Making a “Completely Blind” Image Quality Analyzer
+* NIQE(SPL'13): Making a “Completely Blind” Image Quality Analyzer
 
     __http://live.ece.utexas.edu/research/quality/niqe_release.zip__
 
