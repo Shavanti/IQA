@@ -14,3 +14,7 @@
 
   __https://github.com/avinabsaha/ReIQA__
 
+  * NIQE(SPL'13): Making a “Completely Blind” Image Quality Analyzer
+
+    __http://live.ece.utexas.edu/research/quality/niqe_release.zip__
+
