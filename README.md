@@ -16,7 +16,7 @@
 
 * RankIQA(ICCV'17):RankIQA: Learning from Rankings for No-Reference Image Quality Assessment
 
-__https://github.com/xialeiliu/RankIQA__
+  __https://github.com/xialeiliu/RankIQA__
 
 * IL-NIQE(TIP'15): A Feature-Enriched Completely Blind Image Quality Evaluator
 
