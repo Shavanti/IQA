@@ -26,6 +26,10 @@
 
   __www.comp.polyu.edu.hk/∼cslzhang/IQA/ILNIQE/ILNIQE.htm__
 
+* BLISS(CVPR'14): Beyond Human Opinion Scores: Blind Image Quality Assessment based on Synthetic Scores
+
+  __无公开代码__
+
 * NIQE(SPL'13): Making a “Completely Blind” Image Quality Analyzer
 
     __http://live.ece.utexas.edu/research/quality/niqe_release.zip__
