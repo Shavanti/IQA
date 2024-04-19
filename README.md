@@ -20,7 +20,7 @@
 
 * dipIQ(TIP'17): dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs
 
-代码地址失效
+  __代码地址失效__
 
 * IL-NIQE(TIP'15): A Feature-Enriched Completely Blind Image Quality Evaluator
 
