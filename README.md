@@ -18,6 +18,10 @@
 
   __https://github.com/xialeiliu/RankIQA__
 
+* dipIQ(TIP'17): dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs
+
+代码地址失效
+
 * IL-NIQE(TIP'15): A Feature-Enriched Completely Blind Image Quality Evaluator
 
   __www.comp.polyu.edu.hk/∼cslzhang/IQA/ILNIQE/ILNIQE.htm__
