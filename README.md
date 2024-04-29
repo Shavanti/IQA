@@ -14,6 +14,10 @@
 
   __https://github.com/avinabsaha/ReIQA__
 
+* LIQE(CVPR'23): Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective
+
+__https://github.com/zwx8981/LIQE__
+
 * RankIQA(ICCV'17):RankIQA: Learning from Rankings for No-Reference Image Quality Assessment
 
   __https://github.com/xialeiliu/RankIQA__
