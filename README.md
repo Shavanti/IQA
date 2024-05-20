@@ -10,6 +10,10 @@
   * Q-Align(ICML'24): Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels
 
     __https://github.com/Q-Future/Q-Align__
+
+* Q-Boost(arXiv): Q-Boost: On Visual Quality Assessment Ability of Low-level Multi-Modality Foundation Models
+
+    __https://q-future.github.io/Q-Instruct/boost_qa/__
     
 * SS-IQA(AAAI'24): Semi-Supervised Blind Image Quality Assessment through Knowledge Distillation and Incremental Learning
 
