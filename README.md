@@ -7,8 +7,9 @@
 
    __https://github.com/Q-Future/Q-Instruct__
 
-     * Q-Align(ICML'24): Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels
-       __https://github.com/Q-Future/Q-Align__
+  * Q-Align(ICML'24): Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels
+
+    __https://github.com/Q-Future/Q-Align__
     
 * SS-IQA(AAAI'24): Semi-Supervised Blind Image Quality Assessment through Knowledge Distillation and Incremental Learning
 
